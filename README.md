@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ashish2258
-- 👀 I’m interested in Digital Forensics
-- 🌱 I’m currently learning Digital Forensics investigations
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, Cybersecurity.
+- 🌱 I’m currently learning Data Science
+- 💞️ 
+- 📫 
 
 <!---
 Ashish2258/Ashish2258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
